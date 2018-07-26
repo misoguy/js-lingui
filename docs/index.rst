@@ -59,6 +59,8 @@ Key features
    :caption: API References
 
    React <ref/lingui-react>
+   React Macros <ref/react.macro>
+   JS Macros <ref/js.macro>
    CLI <ref/lingui-cli>
    Configuration <ref/lingui-conf>
 
