@@ -69,6 +69,7 @@ def setup(app):
     )
     app.add_node(js_macro)
     app.add_crossref_type('config', 'conf')
+    app.add_crossref_type('icu', 'icu')
 
     app.add_description_unit(
         directivename="lingui-cli",
